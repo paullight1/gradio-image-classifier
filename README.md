@@ -67,7 +67,7 @@ http://127.0.0.1:7860
 ## 🖼️ Sample Screenshots (Optional)
 input button, any image can be uploaded
 ![image](https://github.com/user-attachments/assets/dfedd7c3-df04-4daa-862c-6f1f745041e9)
-the result after image was uploaded, Ai was abel to recognize the animal
+the result after image was uploaded, Ai was able to recognize the animal
 ![image](https://github.com/user-attachments/assets/43002d11-f01d-4c11-ac5c-a538c149f9e9)
 
 there are options to use webcam?
